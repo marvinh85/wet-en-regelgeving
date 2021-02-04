@@ -230,8 +230,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 24 - VDM
 
 1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn voertuig bewust als wapen gebruikt, zal gestraft worden volgens de 1e categorie.
-2. De overtreding vermeld in het eerste lid staat bekend als “VDM”
-3. Als een slachtoffer moedwillig aan wordt gereden door een dader die boven de 30 km/u rijdt zal er vanuit gegaan worden dat de dader de intentie heeft om het slachtoffer te vermoorden. Dit betekent echter niet dat alles onder de 30 km/u niet met de intentie om te vermoorden is en dit kan alsnog bestraft worden indien dit overduidelijk is met de intentie om iemand te vermoorden.
+2. Hij/zij die op een ander voertuig inrijdt met de intentie te "pitten" met een snelheid hoger dan 80 km/u zal dit worden gezien als onrealistisch en dus gestraft worden volgens de 1e categorie.
+3. De overtreding vermeld in het 1e lid en het 2e lid staat bekend als “VDM”
+4. Hij/zij die lid 2 uitvoert met een voertuig dat veel "lichter" of kleiner is als het andere voertuig dat "gepit" word, bijvoorbeeld Sedan vs SUV, zal ook gestraft worden volgens de 1e categorie.
+5. Als een slachtoffer moedwillig aan wordt gereden door een dader die boven de 30 km/u rijdt zal er vanuit gegaan worden dat de dader de intentie heeft om het slachtoffer te vermoorden. Dit betekent echter niet dat alles onder de 30 km/u niet met de intentie om te vermoorden is en dit kan alsnog bestraft worden indien dit overduidelijk is met de intentie om iemand te vermoorden.
 
 ### Artikel 25 - RDM
 
@@ -389,9 +391,18 @@ Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een stra
 | Overheidsbaan | Criminele organisatie | een week |
 | Criminele organisatie | Overheidsbaan | een week |
 
+### Artikel 48 - Demonstreren
+
+1. Het is verboden om in grote groepen samen te komen en te demonstreren zonder dat hier:
+    * Schriftelijk toestemming voor is van de hogeraad.
+    * Één persoon de leiding heeft bij deze groep.
+    * Een aangewezen plek is voor de demonstratie.
+2. Bij overtreding van één van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
+3. Mocht de demonstratie uit de hand lopen indien deze wel voldoet aan lid 1 zal de leidinggevende persoon een straf krijgen van de 3e categorie.
+
 ## Tijdelijke bepalingen
 
-### Artikel 48 - Uitbreken uit de gevangenis
+### Artikel 49 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 01:00 en 08:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
